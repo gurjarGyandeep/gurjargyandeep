@@ -1,5 +1,5 @@
 
-### 👋 Hello, I'm [Gyandeep]!
+### 👋 Hello, I'm Gyandeep!
 
 🔍 **About Me**
 I'm a passionate data enthusiast with experience in SQL, Python, Tableau, and Snowflake. I love turning raw data into actionable insights and am constantly exploring new ways to leverage data for better decision-making.
